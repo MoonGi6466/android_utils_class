@@ -1,2 +1,2 @@
 # android_utils_class
-主要是存放一些Android
+主要是存放一些Android开发经常会用到的工具类。
